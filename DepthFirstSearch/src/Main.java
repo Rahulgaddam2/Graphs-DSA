@@ -1,6 +1,6 @@
 // To perform DFS we need two additional data structures
 // 1. Sets
-// 2/ stack
+// 2. stack
 
 import java.util.*;
 
