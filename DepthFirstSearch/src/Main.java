@@ -47,17 +47,20 @@ public class Main {
         Stack<Integer> stack = new Stack<>();
 
         stack.push(v);
+        visited.add(v);
 
         while(!stack.isEmpty()){
 
             int currentVertex = stack.pop();
+            visited.add(currentVertex);
             System.out.println(currentVertex + " ");
 
-            visited.add(currentVertex);
+
 
             for(int neighbor : adjList.get(currentVertex)){
                 if(!visited.contains(neighbor)){
                     stack.push(neighbor);
+                    visited.add(neighbor);
                 }
             }
         }
