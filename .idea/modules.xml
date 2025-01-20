@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adjacency_List/Adjacency_List.iml" filepath="$PROJECT_DIR$/Adjacency_List/Adjacency_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adjacency_Matrix/Adjacency_Matrix.iml" filepath="$PROJECT_DIR$/Adjacency_Matrix/Adjacency_Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DepthFirstSearch/DepthFirstSearch.iml" filepath="$PROJECT_DIR$/DepthFirstSearch/DepthFirstSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Graph.iml" filepath="$PROJECT_DIR$/.idea/Graph.iml" />
     </modules>
   </component>

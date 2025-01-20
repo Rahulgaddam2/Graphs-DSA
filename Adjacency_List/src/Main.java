@@ -8,10 +8,12 @@ public class Main {
     private Map<Integer , List<Integer>> adjList;
 
     public Main(){
+
         this.adjList = new HashMap<>();
     }
 
     public void addVertix(int vertex){
+
         adjList.put(vertex , new LinkedList<>());
     }
 
