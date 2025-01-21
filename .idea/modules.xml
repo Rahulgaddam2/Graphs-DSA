@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/BreadthFirstSearch/BreadthFirstSearch.iml" filepath="$PROJECT_DIR$/BreadthFirstSearch/BreadthFirstSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/DepthFirstSearch/DepthFirstSearch.iml" filepath="$PROJECT_DIR$/DepthFirstSearch/DepthFirstSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Graph.iml" filepath="$PROJECT_DIR$/.idea/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeightedDirectedGraph/WeightedDirectedGraph.iml" filepath="$PROJECT_DIR$/WeightedDirectedGraph/WeightedDirectedGraph.iml" />
     </modules>
   </component>
 </project>
